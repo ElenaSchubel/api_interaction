@@ -1,0 +1,51 @@
+body{
+font-family: "Josefin Sans", serif;
+background-image: url('background2.png');
+}
+
+
+#Heading{
+  text-align: center;
+  color:
+}
+
+h1{
+  font-size: 3.2em;
+  color: #fafaff;
+}
+
+p{
+  font-size: 2.2em;
+  color:#fafaff;
+}
+
+#section{
+  text-align: center;
+  margin-top: 100px;
+  margin-bottom: 20px;
+}
+
+#button{
+  text-align: center;
+  padding: 5px 5px;
+  text-shadow: 1px 1px 4px rgba(98, 42, 42, 0.67);
+  color: #fafaff;;
+  font-size: 40px;
+  border-radius: 10px;
+  background-color: #bb0024;
+
+}
+
+#words {
+  overflow: scroll;
+  text-align:center;
+  margin: auto;
+  width: 55%;
+  height: 275px;
+  background-color: white;
+  border-radius: 15px;
+  font-style: italic;
+  padding: 15px 15px;
+  font-size: 25px;
+  color: #5e2732;
+}
